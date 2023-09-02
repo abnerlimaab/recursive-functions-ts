@@ -1,0 +1,10 @@
+{
+  "extends": ["eslint:recommended", "plugin:functional/recommended"],
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint", "functional"],
+  "rules": {
+    "functional/no-let": "error",
+    "functional/no-class": "error",
+    "functional/prefer-readonly-type": "error"
+  }
+}
