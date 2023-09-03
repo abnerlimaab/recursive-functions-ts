@@ -32,5 +32,12 @@ Agora que entendemos esses conceitos, vamos aos desafios!
 
 <details>
   <summary>Desafio 1 - Calculando impostos</summary>
+  <br>
   Rock é um contador talentoso que trabalha com uma variedade de clientes. Recentemente, ele recebeu um novo cliente, Alice, que precisa calcular seus impostos anuais. Alice ganhou $50.000 no ano passado e deseja saber quanto ela deve pagar em impostos com base em uma taxa de imposto progressiva.
+</details>
+<br>
+<details>
+  <summary>Desafio 2 - Contador de digitos</summary>
+  <br>
+  Alice precisa verificar quantos dígitos há em seu número de telefone, pois deseja memorizá-lo.
 </details>
